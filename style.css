@@ -1,0 +1,30 @@
+.app {
+    background-color: green;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    }
+    
+    .top-bar{
+    }
+    
+    .grades-container{
+        height: 400px;
+        width: 400px;
+        background-color: teal;
+        border: solid 5px yellow;
+        justify-content: center;
+    }
+    .average{
+        font-size: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start
+    
+    }
+
+
+
+
+
+
